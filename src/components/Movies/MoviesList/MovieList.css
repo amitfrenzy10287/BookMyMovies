@@ -1,0 +1,29 @@
+.contentMovies {
+    position: relative;
+    border: solid 1px #ddd;
+    box-shadow: 0 0 30px #ddd;
+    margin-top: 2%;
+    margin-left: 11px;
+    height:800px;
+    /*padding: 2%;*/
+    flex: 0 0 80% !important;
+    max-width: 80% !important;
+}
+
+.contentMoviesSidebar {
+    position: relative;
+    border: solid 1px #ddd;
+    box-shadow: 0 0 30px #ddd;
+    margin-top: 2%;
+    margin-left: 11px;
+    height:800px;
+    padding:2%;
+}
+ 
+.movieCard{
+    padding: 2%;
+}
+
+.movieCardBody{
+    padding:0px !important;
+}
